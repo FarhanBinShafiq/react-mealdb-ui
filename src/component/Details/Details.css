@@ -1,0 +1,11 @@
+.detail{
+    text-align: center;
+    display: flex;
+}
+.detail img{
+    width: 400px;
+}
+.content{
+    padding: 10px 30px;
+    background-color: rgb(190, 204, 204);
+}
